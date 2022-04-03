@@ -1,0 +1,2 @@
+# okstock
+naver stocks scraping
